@@ -6,3 +6,11 @@ p {
 li {
     color: green;
 }
+
+#li_id{
+    color: blue;
+}
+
+.li_class {
+    color: red;
+}
